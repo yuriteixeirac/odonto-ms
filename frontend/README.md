@@ -1,1 +1,0 @@
-# OdontoMS Front-end
